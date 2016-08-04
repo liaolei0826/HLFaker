@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HLFaker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">HLFaker Android Moudule by @hl46000\n1-HLFaker là một Moldule chạy trên Xposed.\nYêu cầu cài đặt Xposed và kích hoạt Module.\n2-HLFaker chỉ fake thông tin được truyền vào từ các tool điều khiển, nên không ảnh hưởng đến thiết bị và bản thân nó không tự tạo thông tin để fake.\n3-HLFaker mà một Module mã nguồn mở được public trên Github tại địa chỉ:\nhttps://github.com/hl46000/MMOModule\n4-Mọi ý kiến đóng góp xin gửi về Email: hl.46000@gmail.com\nBản quyền thuộc về Lê Hoàng Long(@hl46000)</string>
+
+</resources>
